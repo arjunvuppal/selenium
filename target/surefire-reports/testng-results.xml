@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2019-06-24T19:35:02Z" finished-at="2019-06-24T19:35:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2019-06-24T19:35:02Z" finished-at="2019-06-24T19:35:02Z">
+      <class name="com.mycompany.app.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:com.mycompany.app.SeleniumTest@7823a2f9]" name="browserAutomation" duration-ms="13" started-at="2019-06-24T19:35:02Z" finished-at="2019-06-24T19:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- com.mycompany.app.SeleniumTest -->
+      <class name="com.mycompany.app.AppiumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:com.mycompany.app.AppiumTest@4cc0edeb]" name="browserAutomation" duration-ms="0" started-at="2019-06-24T19:35:02Z" finished-at="2019-06-24T19:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- com.mycompany.app.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
